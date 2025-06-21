@@ -11,10 +11,10 @@
 
 - 🎓 I'm currently pursuing BCA from **Sunderdeep Group of Institutions**, CCSU
 - 🌱 I’m learning **Java**, improving **MERN Stack** skills & diving into **Machine Learning**
-- 🔭 I’m building: `EduMate`, `SocialBook`, `CCSU Clone`, `Gemini Chatbot`, `Music Recommendation System`
+- 🔭 qI’m building: `EduMate`, `SocialBook`, `CCSU Clone`, `Gemini Chatbot`, `Music Recommendation System`
 - 🧠 I participate in hackathons & coding competitions (Blind coding, WebDev contests)
 - 📬 Reach me at **chandrakantteotia@gmail.com**
-- 🔗 [Portfolio Website](https://portfoliochandrakantteotia.netlify.app/)
+- 🔗 [Portfolio Website](https://www.chandrakantteotia.xyz)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chandrakant-teotia/)
 - 🔗 [GitHub](https://github.com/chandrakantteotia)
 
