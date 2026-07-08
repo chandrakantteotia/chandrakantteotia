@@ -11,7 +11,7 @@
 
 - 🎓 I've done BCA from **Sunderdeep Group of Institutions**, CCSU
 - 🌱 I’m learning **Java**, improving **MERN Stack** skills & diving into **Machine Learning**
-- 🔭 qI’m building: `EduMate`, `SocialBook`, `CCSU Clone`, `Gemini Chatbot`, `Music Recommendation System`
+- 🔭 I’m building: `EduMate`, `SocialBook`, `CCSU Clone`, `Gemini Chatbot`, `Music Recommendation System`
 - 🧠 I participate in hackathons & coding competitions (Blind coding, WebDev contests)
 - 📬 Reach me at **chandrakantteotia@gmail.com**
 - 🔗 [Portfolio Website](https://www.chandrakantteotia.xyz)
